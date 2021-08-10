@@ -117,21 +117,23 @@ hero-form label {
     background: #fce138;
 }
 
-section-title {
+.section-title {
     font-size: 55px;
     color: #024e76;
     margin-bottom: 35px;
-    pad: 0 100px 20px 100px;
+    padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
-}
-
-.primary-border {
+  }
+  
+  .primary-border {
     border-color: #fce138;
-}
-.secondary-border {
+  }
+  
+  .secondary-border {
     border-color: #39a6b2;
-}
+  }
+
 .steps div {
     margin-bottom: 80px;
 }
@@ -196,4 +198,11 @@ width: 65%;
 .trainer-bio p {
     font-size: 17px;
     line-height: 1.3;
+}
+.contact {
+    background-color: #024e76;
+    text-align: center;
+}
+.contact h2 {
+    color: #fce138;
 }
